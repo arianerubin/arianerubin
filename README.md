@@ -4,11 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hi, I’m Ariane Rubin, a seasoned healthcare professional turned web developer. With dual master's degrees in Sports Medicine and Maternal and Children Nutrition from Universidade de Sao Paulo and a specialization in Pediatric Food Allergy from FARE North America, I have spent over a decade dedicated to enhancing patient care in pediatrics and sports medicine.
-Before transitioning into web development, I was deeply entrenched in the healthcare field as a Dietitian. My journey into web development began when I realized the profound impact technology could have on bridging gaps in patient care and streamlining healthcare processes. It was a pivotal moment that sparked my passion for combining healthcare expertise with cutting-edge technology.
-My strengths lie in my ability to analyze complex problems, collaborate effectively across interdisciplinary teams, and innovate through software solutions. During my training at Fullstack Academy, I honed these skills while developing robust web applications that improve efficiency and usability in healthcare settings.
-I am particularly proud of my work in creating intuitive user interfaces, optimizing data management systems, and integrating secure communication channels—all crucial elements in enhancing healthcare delivery and patient outcomes.
-I am now eager to leverage my background in healthcare and newfound expertise in web development to contribute to innovative projects at the intersection of healthcare and technology. I am seeking opportunities where I can apply my skills to develop impactful software solutions that empower healthcare professionals and improve patient experiences.
+Hi, I’m Ariane Rubin, a software engineer with a unique background in dietetics, holding dual master's degrees in Sports Medicine and Maternal and Children Nutrition from Universidade de Sao Paulo. Over the past decade, I've dedicated myself to enhancing patient care in pediatrics and sports medicine.
+
+My journey into web development began when I recognized the transformative potential of technology to improve processes and outcomes across various industries. This sparked my passion for integrating my expertise in dietetics with cutting-edge software solutions.
+
+Throughout my career, I've honed strong analytical skills and a detail-oriented approach, essential for problem-solving and delivering efficient solutions in software development. Collaborating across interdisciplinary teams has equipped me with effective teamwork and communication skills that translate seamlessly into software projects.
+
+At Fullstack Academy, I further refined my abilities in creating intuitive user interfaces, optimizing data management systems, and integrating secure communication channels—critical elements for advancing technology solutions.
+
+I am now eager to leverage my diverse background and technical expertise to contribute to innovative software projects. I bring a unique perspective and a commitment to delivering high-quality solutions that bridge the gap between healthcare and technology.
+
+I am actively seeking opportunities in software engineering where I can apply my skills to develop impactful software solutions, particularly in healthcare and related fields.
 
 * 🌍  I'm based in Fairfield, CT
 * ✉️  You can contact me at [arianeaoki@icloud.com](mailto:arianeaoki@icloud.com)
